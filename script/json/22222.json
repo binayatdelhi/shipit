@@ -1,0 +1,27 @@
+{
+	"prodId": 22222,
+	"prodName": "Dove Shampoo",
+	"prodDesc": "Dove Shampoo for all hair types",
+	"prodImg": "json/doveShampooImage.jpeg",
+	"rating": 3,
+	 "interact" : "https://www.dove.com/in/hair-care/shampoo.html",
+	"reviews": [{
+			"reviewCnt" : 1,
+			"reviewedBy": "Vinant",
+			"reviewComments": "Didn't like it much.",
+			"reviewDate": "01/01/2019"
+		},
+		{
+			"reviewCnt" : 2,
+			"reviewedBy": "Ankit",
+			"reviewComments": "a really nice product.",
+			"reviewDate": "01/01/2018"
+		},
+		{
+			"reviewCnt" : 3,
+			"reviewedBy": "Binay",
+			"reviewComments": "Doesn't go well with all hair types.",
+			"reviewDate": "01/01/2017"
+		}
+	]
+}

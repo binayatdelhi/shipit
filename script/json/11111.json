@@ -1,0 +1,27 @@
+{
+	"prodId": 11111,
+	"prodName": "Axe",
+	"prodDesc": "Axe Deo",
+	"prodImg": "json/axeImage.jpg",
+	"rating": 3,
+	"interact":"https://www.axe.com/us/en/home.html",
+	"reviews": [{
+			"reviewCnt" : 1,
+			"reviewedBy": "Vinant",
+			"reviewComments": "a really nice product.",
+			"reviewDate": "01/01/2019"
+		},
+		{
+			"reviewCnt" : 2,
+			"reviewedBy": "Ankit",
+			"reviewComments": "Didn't like it much.",
+			"reviewDate": "01/01/2018"
+		},
+		{
+			"reviewCnt" : 3,
+			"reviewedBy": "Binay",
+			"reviewComments": "A must buy for all",
+			"reviewDate": "01/01/2017"
+		}
+	]
+}

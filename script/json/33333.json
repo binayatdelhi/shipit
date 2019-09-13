@@ -1,0 +1,27 @@
+{
+	"prodId": 33333,
+	"prodName": "Dove Soap",
+	"prodDesc": "Dove",
+	"prodImg": "json/soapImage.jpg",
+	"rating": 1,
+	"interact" : "https://www.dove.com/in/washing-and-bathing/beauty-bar.html",
+	"reviews": [{
+			"reviewCnt" : 1,
+			"reviewedBy": "Vinant",
+			"reviewComments": "Not so good.",
+			"reviewDate": "01/01/2019"
+		},
+		{
+			"reviewCnt" : 2,
+			"reviewedBy": "Ankit",
+			"reviewComments": "Nice product.",
+			"reviewDate": "01/01/2018"
+		},
+		{
+			"reviewCnt" : 3,
+			"reviewedBy": "Binay",
+			"reviewComments": "Liked it much.",
+			"reviewDate": "01/01/2017"
+		}
+	]
+}
